@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="29" viewBox="0 0 23 29">
+  <defs>
+    <clipPath id="clip-iPhone_14_Pro_Max_1">
+      <rect width="23" height="29"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_14_Pro_Max_1" data-name="iPhone 14 Pro Max – 1" clip-path="url(#clip-iPhone_14_Pro_Max_1)">
+    <g id="Group_1" data-name="Group 1">
+      <path id="Path_4" data-name="Path 4" d="M183.658,241.986s-11.443-.068-11.579,9.017c.854,9.154,11.579,13.595,11.579,13.595Z" transform="translate(-172.079 -236.278)" fill="#ff7f00"/>
+      <path id="Path_3" data-name="Path 3" d="M185.966,265.318s4.635-.1,5.116,6.735c.1,1.552-.172,3.335-1.167,3.929s-6.352-2.047-7-7.3C183.118,265,185.966,265.318,185.966,265.318Z" transform="translate(-181.423 -255.307)" fill="#fff"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="1.474" cy="1.474" r="1.474" transform="translate(4.406 14.368)" fill="#ff7c00"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="0.461" cy="0.461" r="0.461" transform="translate(4.959 14.921)" fill="#fff"/>
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="1.658" cy="1.658" r="1.658" transform="translate(3.854)" fill="#ff7f00"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="0.921" height="3.5" transform="matrix(0.966, -0.259, 0.259, 0.966, 5.419, 3.126)" fill="#fe7f00"/>
+      <path id="Path_5" data-name="Path 5" d="M172.079,241.986s11.443-.068,11.579,9.017c-.854,9.154-11.579,13.595-11.579,13.595Z" transform="translate(-160.658 -236.278)" fill="#e57100"/>
+      <path id="Path_6" data-name="Path 6" d="M188.02,265.318s-4.611-.1-5.089,6.968c-.1,1.605.171,3.45,1.161,4.065s6.319-2.118,6.968-7.549C190.852,264.987,188.02,265.318,188.02,265.318Z" transform="translate(-169.863 -255.491)" fill="#fff"/>
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="1.474" cy="1.474" r="1.474" transform="translate(15.459 14.368)" fill="#e47001"/>
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="0.461" cy="0.461" r="0.461" transform="translate(16.932 14.921)" fill="#fff"/>
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="1.658" cy="1.658" r="1.658" transform="translate(15.274)" fill="#e57100"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="0.921" height="3.5" transform="translate(16.039 2.888) rotate(14)" fill="#e57100"/>
+    </g>
+  </g>
+</svg>
