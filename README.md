@@ -4,7 +4,11 @@
 
 C++ Attendance Device project witch FingerPrint and NFC Card Reader with modules `Arduino mega 2560` and `Arduino Ethernet shield w5100`, `NFC PN V3` and `Fingerprint ZFM60`.
 
-All the needed files, Altium PCB circuit, 3D model case and Flowchart are in `FILES` directory 
+
+## needed files
+
+:warning: All the needed files, Altium PCB circuit, 3D model case and Flowchart are in `FILES` directory 
+
 
 ## Authors
 
@@ -74,3 +78,17 @@ All the needed files, Altium PCB circuit, 3D model case and Flowchart are in `FI
 |  35 | 4-pin board connector Smooth male and female   | 2     |
 |  36 | Connector Header male and female (22-05-3041)  | 2     |
 |  37 | LM2596 2Amp                                    | 1     |
+
+
+## Main Circuit
+![circuit](./FILES/images/main-circuit.png)
+
+
+## PCB board
+
+<a href="./FILES/PCB/PCB-main-final.jpg">
+    <img src='./FILES/PCB/PCB-main-final.jpg' width='200'>
+</a>
+<a href="./FILES/PCB/PCB-circuit.jpg">
+    <img src='./FILES/PCB/PCB-circuit.jpg' width='200'>
+</a>
