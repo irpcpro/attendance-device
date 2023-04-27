@@ -81,14 +81,18 @@ C++ Attendance Device project witch FingerPrint and NFC Card Reader with modules
 
 
 ## Main Circuit
-![circuit](./FILES/images/main-circuit.png)
+
+<a href="./FILES/images/main-circuit.png">
+    <img alt="Main Circuit" src='./FILES/images/main-circuit.png' width='400'>
+</a>
 
 
 ## PCB board
 
 <a href="./FILES/PCB/PCB-main-final.jpg">
-    <img src='./FILES/PCB/PCB-main-final.jpg' width='200'>
+    <img alt="PCB board 1" src='./FILES/PCB/PCB-main-final.jpg' width='200'>
 </a>
 <a href="./FILES/PCB/PCB-circuit.jpg">
-    <img src='./FILES/PCB/PCB-circuit.jpg' width='200'>
+    <img alt="PCB board 2" src='./FILES/PCB/PCB-circuit.jpg' width='200'>
 </a>
+
